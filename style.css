@@ -1,0 +1,72 @@
+*{
+    font-family: "Bitter", serif;
+}
+header{
+    background-color: #1693a5;
+}
+header a{
+    color: white;
+    
+}
+.nav-item a{
+    color: #c7ede8;
+}
+.perfil{
+    color:   #1693a5;
+}
+#boton-perfil{
+    background-color: #45b5c4;
+}
+.nav-item a:hover{
+    color: white;
+}
+#app{
+    color: #45b5c4;
+}
+.hero p{
+    text-align: justify;
+}
+.boton-cv{
+    color: white;
+    background-color: #45b5c4;
+
+}
+.caja-habilidades{
+    background-color: #c7ede8;
+    
+}
+.caja-habilidades p{
+    text-align: justify;
+}
+.btn-proyecto{
+    background-color: #c7ede8;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: #45b5c4;
+}
+.card .card-title{
+    color: #45b5c4;
+
+}
+#contacto{
+    background-color: #a0ded6;
+    color: black;
+}
+#btn-contacto{
+    background-color: #45b5c4;
+    color: white;
+}
+footer li a i{
+    color:#1693a5
+}
+footer p{
+    color: #1693a5;
+}
+footer p a{
+    color: #1693a5;
+    text-decoration: none;
+}
+.testimonios{
+    text-align: justify;
+}
